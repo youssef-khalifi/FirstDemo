@@ -29,6 +29,8 @@ namespace SynchApp.Models
 
         // Timestamp for tracking last sync
         public DateTime? LastSyncedAt { get; set; }
+        [Required]
+        public Guid SyncId { get; set; } = Guid.NewGuid();
     }
     
 }
