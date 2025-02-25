@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SynchApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+817cfa02dc320f5e4f5c56f6910eb40d632380b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("SynchApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SynchApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
